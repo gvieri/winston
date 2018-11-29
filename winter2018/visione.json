@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "dummy",
+  "private_key_id": "dummy",
+  "private_key": "-----BEGIN PRIVATE KEY-----DUMMY-----END PRIVATE KEY-----\n",
+  "client_email": "prova-visione@protean-theater-203818.iam.gserviceaccount.com",
+  "client_id": "dummy",
+  "auth_uri": "dummy",
+  "token_uri": "dummy",
+  "auth_provider_x509_cert_url": "dummy",
+  "client_x509_cert_url": "dummy"
+}
