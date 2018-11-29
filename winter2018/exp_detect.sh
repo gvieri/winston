@@ -1,5 +1,5 @@
 #!/bin/bash 
 
-export GOOGLE_APPLICATION_CREDENTIALS=/home/wetrade/google_ml_api/prova_visione/visione.json
+export GOOGLE_APPLICATION_CREDENTIALS=./visione.json
 
-python2 ./exp_detect.py
+python ./exp_detect.py
